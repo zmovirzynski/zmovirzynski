@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="30%" src="https://gfycat.com/deepunfitegg" alt="Gif">
+  <img width="30%" src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon.webp" alt="Gif">
 </p>
 
 <h1 align="center">Hi, I'm Wellington Zmovirzynski</h1>
