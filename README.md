@@ -5,8 +5,6 @@
 <h1 align="center">Hi, I'm Wellington Zmovirzynski</h1>
 <h3 align="center">A passionate Quality Engineering from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zmovirzynski&label=Profile%20views&color=b3bfc7&style=flat-square" alt="zmovirzynski" /> </p>
-
 - 📫 How to reach me **w.zmovirzynski@gmail.com**
 
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/wellington-zmovirzynski/)
