@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="30%" src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon.webp" alt="Gif">
-</p>
-
 <h1 align="center">Hi, I'm Wellington Zmovirzynski</h1>
 <h3 align="center">A passionate Quality Engineering from Brazil</h3>
 
