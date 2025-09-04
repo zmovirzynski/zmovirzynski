@@ -1,8 +1,12 @@
-# Wellington here 👋
+# Hey, Smurf here 👋
 
 Quality Engineer from Brazil who spends way too much time making sure things don't break in production (and occasionally succeeding).
 
 I'm that guy who gets genuinely excited when a test catches a bug before it reaches users. Been working with test automation for a while now, and honestly? I still get a kick out of watching a good CI/CD pipeline run smoothly.
+
+## QA Wisdom of the Day
+
+![QA Wisdom](https://qa-wisdom-api.vercel.app/badge)
 
 ## What I'm up to
 
@@ -14,9 +18,11 @@ Currently breaking things professionally so they don't break accidentally later.
 
 When I'm not staring at test results, I'm probably working on games. There's something about creating interactive experiences that just clicks with me - maybe it's the instant feedback loop, or maybe I just like making things that are fun.
 
-## Side project that keeps me busy
+## Projects I'm proud of
 
-Built **[Pokemotion](https://pokemotion.online)** because why not combine two things I love? It's a game where I get to practice everything I preach about quality - automated testing, proper deployment, monitoring, the works.
+- **[Pokemotion](https://pokemotion.online)** → A Pokémon-inspired game where I apply everything I know about testing and deployment
+- **[QA Wisdom API](https://github.com/zmovirzynski/qa-wisdom-api)** → Tiny API that generates QA wisdom badges for READMEs (like the one above!)
+- **[k6-structure](https://github.com/zmovirzynski/k6-structure)** → Load testing project structure for scalable performance testing
 
 <p align="center">
   <a href="https://pokemotion.online" target="_blank">
@@ -29,6 +35,13 @@ Built **[Pokemotion](https://pokemotion.online)** because why not combine two th
 </p>
 
 Sometimes I spend more time debugging the deployment pipeline than actually playing the game, but that's the fun part, right? 😅
+
+## Highlights
+
+- Reduced CI/CD pipeline time by 40% on a client project
+- Built a game server with 1,000+ players registered
+- Developed internal test frameworks used by multiple teams
+- Created dynamic APIs that make READMEs more engaging
 
 ## Tech I actually use
 
