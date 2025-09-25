@@ -1,53 +1,90 @@
-# Hey, Smurf here 👋
+# Wellington “Smurf” Zmovirzynski
 
-Quality Engineer from Brazil who spends way too much time making sure things don't break in production (and occasionally succeeding).
+**QA / Software Engineer** focused on building **reliable delivery pipelines** and **pragmatic test architectures** so teams ship faster with fewer surprises.
 
-I'm that guy who gets genuinely excited when a test catches a bug before it reaches users. Been working with test automation for a while now, and honestly? I still get a kick out of watching a good CI/CD pipeline run smoothly.
+- I turn flaky, slow pipelines into **predictable, observable delivery**.
+- I design test suites that actually catch regressions (not just bump coverage).
+- I like small tools that remove friction for everyone.
+
+[LinkedIn](https://www.linkedin.com/in/wellington-zmovirzynski/) · w.zmovirzynski@gmail.com
+
+---
 
 ## QA Wisdom of the Day
-
 ![QA Wisdom](https://qa-wisdom-api.vercel.app/badge)
 
-## What I'm up to
+---
 
-Currently breaking things professionally so they don't break accidentally later. My day usually involves:
+## Highlights
 
-- Writing tests that actually matter (not just for coverage numbers)
-- Setting up CI/CD pipelines that don't make developers cry
-- Diving into DevOps stuff because monitoring is addictive once you start
+- ↓ **40%** CI/CD pipeline time (caching, parallelism, matrix, test split)
+- **1,000+** registered players infra (game backend & deployment)
+- Internal **API/E2E frameworks** adopted by multiple squads
+- Built small **developer-facing APIs** (badges, helpers) that people actually use
 
-When I'm not staring at test results, I'm probably working on games. There's something about creating interactive experiences that just clicks with me - maybe it's the instant feedback loop, or maybe I just like making things that are fun.
+---
 
-## Projects I'm proud of
+## What I do (daily)
 
-- **[Pokemotion](https://pokemotion.online)** → A Pokémon-inspired game where I apply everything I know about testing and deployment
-- **[QA Wisdom API](https://github.com/zmovirzynski/qa-wisdom-api)** → Tiny API that generates QA wisdom badges for READMEs (like the one above!)
-- **[k6-structure](https://github.com/zmovirzynski/k6-structure)** → Load testing project structure for scalable performance testing
+- Write **tests that matter** (API/E2E/contract/perf) instead of chasing % coverage
+- Maintain **fast & observable pipelines** (GitHub Actions / Azure Pipelines)
+- **Monitor quality signals** (flakiness, failure clustering, slowest suites)
+- Occasionally build **tools & dashboards** to make quality visible
+
+---
+
+## Selected Work
+
+**TestOps** — *Test results dashboard (JUnit/Cypress) with actionable insights*  
+`Python · Flask · Chart.js · GitHub Actions · Docker`  
+→ Web dashboard to aggregate test reports, surface flakiness trends, and highlight slowest suites.  
+Repo: https://github.com/zmovirzynski/TestOps
+
+**k6-structure** — *Load testing structure ready for scale*  
+`JavaScript · K6`  
+→ Opinionated folders, thresholds, and scenarios (smoke/load/soak) to keep perf tests clean and comparable.  
+Repo: https://github.com/zmovirzynski/k6-structure
+
+**Android-Azure-Devops** — *Android 13 Emulator in CI*  
+`Azure Pipelines · Android Emulator`  
+→ YAML that reliably boots emulator and runs tests headless in CI environments.  
+Repo: https://github.com/zmovirzynski/Android-Azure-Devops
+
+**Cypress on CentOS 7** — *Headless E2E without the usual pain*  
+`Docker · Cypress`  
+→ Container solving native deps for Cypress on older Linux distros (battle-tested).  
+Repo: https://github.com/zmovirzynski/container-centos7-cypress
+
+**QA Wisdom API** — *Dynamic badges for READMEs*  
+`Node/JS · Vercel`  
+→ Tiny API that renders daily QA wisdom badges (used above).  
+Repo: https://github.com/zmovirzynski/qa-wisdom-api
+
+**Pokemotion** — *Game project applying test & deploy discipline end-to-end*  
+Infra + deployment lessons turned into automation patterns.  
+Site: https://pokemotion.online
 
 <p align="center">
-  <a href="https://pokemotion.online" target="_blank">
+  <a href="https://pokemotion.online" target="_blank" rel="noreferrer">
     <img 
       src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png" 
       alt="Pokemotion"
-      width="100"
+      width="96"
+      height="96"
     />
   </a>
 </p>
 
-Sometimes I spend more time debugging the deployment pipeline than actually playing the game, but that's the fun part, right? 😅
+---
 
-## Highlights
+## Toolbelt
 
-- Reduced CI/CD pipeline time by 40% on a client project
-- Built a game server with 1,000+ players registered
-- Developed internal test frameworks used by multiple teams
-- Created dynamic APIs that make READMEs more engaging
+**Testing**: RestAssured · TestNG · Cypress · Selenium · Postman · K6  
+**DevOps**: GitHub Actions · Azure Pipelines · Docker · Grafana  
+**Code**: Java · Python · JavaScript/TypeScript  
+*(também já trabalhei com C# / Vue.js / Unity em projetos específicos)*
 
-## Tech I actually use
-
-**Testing:** Cypress • Selenium • Postman • Jasmine  
-**DevOps:** Docker • Jenkins • Azure • Grafana  
-**Code:** JavaScript • C# • Java • Vue.js • Unity
+---
 
 <details>
 <summary>GitHub stats (if you're into that)</summary>
@@ -61,14 +98,12 @@ Sometimes I spend more time debugging the deployment pipeline than actually play
 
 </details>
 
+---
+
 ## When I'm not coding
 
-You'll probably find me fishing (best debugging happens away from the screen), listening to whatever's on - could be jazz, could be funk, helps me think. And yes, I'm one of those people who codes better with coffee in hand.
+Fishing (best debugging happens away from the screen), music (jazz/funk), and coffee.
 
 ---
 
-**Want to chat about testing, games, or why your pipeline is probably broken?**
-
-📧 w.zmovirzynski@gmail.com • 💼 [LinkedIn](https://www.linkedin.com/in/wellington-zmovirzynski/)
-
-_Thanks for reading this far!_
+**Open to discuss** QA Automation / SDET / DevOps roles · w.zmovirzynski@gmail.com · [LinkedIn](https://www.linkedin.com/in/wellington-zmovirzynski/)
