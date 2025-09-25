@@ -82,7 +82,7 @@ Site: https://pokemotion.online
 **Testing**: RestAssured · TestNG · Cypress · Selenium · Postman · K6  
 **DevOps**: GitHub Actions · Azure Pipelines · Docker · Grafana  
 **Code**: Java · Python · JavaScript/TypeScript  
-*(também já trabalhei com C# / Vue.js / Unity em projetos específicos)*
+*(I've also worked with C# / Vue.js / Unity and several other technologies on specific projects)*
 
 ---
 
