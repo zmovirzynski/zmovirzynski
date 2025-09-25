@@ -10,7 +10,7 @@
 
 ---
 
-## QA Wisdom of the Day
+## QA Wisdom
 ![QA Wisdom](https://qa-wisdom-api.vercel.app/badge)
 
 ---
